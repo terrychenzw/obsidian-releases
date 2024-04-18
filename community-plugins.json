@@ -11317,5 +11317,12 @@
         "author": "Erin Schnabel (original: MSzturc)",
         "description": "Create markdown-based reveal.js presentations. Fork of Advanced Slides.",
         "repo": "ebullient/obsidian-slides-extended"
+    },
+    {
+        "id": "obsidian-zettelkasten-navigation",
+        "name": "Zettelkasten Navigation",
+        "author": "terrychenzw",
+        "description": "2 customViews for a zettelkasten using Luhmann-style IDs and key word indexes.",
+        "repo": "terrychenzw/obsidian-zettelkasten-navigation"
     }
 ]
